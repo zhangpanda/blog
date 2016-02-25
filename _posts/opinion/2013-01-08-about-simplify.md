@@ -45,15 +45,3 @@ description: 胡言乱语而已，看看就好。
 
 ##TL;DR
 错过这篇废话而无用的文章，你是赚到啦！
-
-
-
-
-[BeiYuu]:    http://beiyuu.com  "BeiYuu"
-[1]:    {{ page.url}}  ({{ page.title }})
-[2]: http://movie.douban.com/subject/3821067/
-[3]: http://movie.douban.com/subject/1291557/
-[4]: http://douban.fm/
-[5]: http://xiami.fm/
-[6]: https://itunes.apple.com/us/app/next-day/id491352621?mt=8
-[chasuqi]: http://v.youku.com/v_show/id_XNDkwMTg0MDI0.html
