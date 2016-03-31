@@ -70,6 +70,17 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .entry blockquote{margin-left:25px;font-size:14px;font-style:italic}
 .entry img{max-width:670px;display:block;margin:10px auto;}
 
+/****yunlogo******/
+.logo-bg {width: 320px;height: 160px;position: fixed;top: 0px;margin-left: -4.8em;z-index: 1;}
+.index .logo-bg {width: 160px;height: 320px;left: 50%;margin-left: -80px;}
+.logo {width: 160px;height: 80px;position: fixed;top: 60px;left: 70px;margin-left: -4.8em;z-index: 100;text-align: center;}
+.index .logo {width: 80px;height: 160px;top: 100px;left: 50%;margin-left: -40px;}
+.logo h1 {font-size: 18px;line-height: 1.2;font-weight: lighter;}
+.logo h1 a {text-decoration: none;color: #fff;}
+.logo h1 a:hover {color: #fff;}
+.home-follow { margin-left:20px; line-height:38px; padding:0 8px; display:inline-block; color:#fff; font-size:18px;  }
+.home-contact { position:fixed;color:#fff; top:100px;left:100px;z-index:101;background:#000; padding:8px 0 7px; text-align:center; display:none;}
+.home-contact a { width:30px; display:inline-block; }
 
 .index-content .aside {
     position: fixed;
@@ -134,14 +145,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 #menuIndex li.h1{font-size:14px;font-weight:normal;padding-left:0;margin-bottom:10px;}
 #menuIndex li.h3{padding-left:25px;}
 
-.home-menu { position:fixed; top:15px; left:15px; z-index:5; font-size:0; }
-.home-menu-icon { line-height:38px; padding:0 8px; display:inline-block; color:#fff; font-size:18px;  background:#000; }
-.home-follow { margin-left:2px; line-height:38px; padding:0 8px; display:inline-block; color:#fff; font-size:18px; background:#000;  }
-.home-menu-icon:hover,.home-follow:hover { color:#fff; text-decoration:none; }
-.home-contact { color:#fff; margin-top:2px; background:#000; padding:8px 0 7px; text-align:center; display:none;}
-.home-contact a { width:30px; display:inline-block; }
-.home-contact img { width:18px; }
-.home-footer{ color:#fff;width:100%;text-align:center;clear:both;margin-bottom:15px; }
+.home-footer{ color:#fff;width:100%;text-align:center;clear:both;margin-bottom:15px; font-size:14px;}
 .home-footer a{ color:#fff; text-decoration:none; }
 .home-footer a:hover{ color:#fff; text-decoration:none; }
 @media screen and (max-width: 750px){
