@@ -9,4 +9,4 @@ category: blog
 
 
 
-[Panda]:    http://blog.zhangtaifeng.com  "Panda"
+[Panda]:    http://www.zhangtaifeng.com  "Panda"
