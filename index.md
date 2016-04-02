@@ -15,7 +15,10 @@ layout: home
         <ul class="artical-list">
         {% for post in site.categories.home %}
             <li>
-                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                <h2>
+                    <a href="{{ post.url }}">{{ post.title }}</a>
+                    <small class="post-time">{{ post.date|date:"%Y-%m-%d" }}</small>
+                </h2>
                 <div class="title-desc">{{ post.description }}</div>
             </li>
         {% endfor %}
