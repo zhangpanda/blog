@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CentOS下通过yum安装svn及配置 
+author: Panda
 category: project
 description: 如题，纪录下自己的搭建过程。
 ---
